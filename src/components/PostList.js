@@ -14,7 +14,7 @@ const PostList = ({ posts }) => {
           Voltar Ao Site Do Centro Médico Marista
         </a>
       </div>
-      <h1>Alessandra Ferreira de Noronha</h1>
+      <h1>Denise Guimarães de Paula</h1>
       <h4>Blog</h4>
       <div className={styles.center}>
         {posts.map(({ node }, index) => {
